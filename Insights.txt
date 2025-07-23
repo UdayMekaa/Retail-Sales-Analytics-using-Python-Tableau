@@ -1,0 +1,25 @@
+📊 KEY INSIGHTS FROM RETAIL SALES ANALYSIS – 2023
+
+1. 🏆 **Top-Performing Segment**:  
+   - The **Technology** category recorded the **highest sales (~₹8.3 lakhs)**  
+   - However, its **profit margin was the lowest**, indicating lower profitability per sale.
+
+2. 🌎 **Regional Insights**:  
+   - The **West region** contributed the **highest total profit**, even though it had fewer total orders than other regions.
+   - The **South and Central regions** had relatively lower profitability.
+
+3. 📅 **Monthly Trends**:  
+   - Sales **peaked in November and December**, likely due to holiday demand.
+   - **July and March** also showed strong sales performance.
+
+4. 👥 **Customer Insights**:  
+   - **Sean Miller** was the top customer, contributing over ₹25,000 in sales.
+   - The top 10 customers alone contributed a significant percentage of total revenue.
+
+5. 🔍 **Profitability vs Volume**:  
+   - High sales volume doesn't always mean high profit — categories like Technology and high-order regions need margin optimization.
+
+6. 📦 **Order Distribution**:  
+   - The East and South regions had the highest order counts but contributed less to total profit.
+   - Orders were scattered across all major regions of the U.S., with noticeable clusters in California and New York.
+
